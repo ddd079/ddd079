@@ -1,2 +1,1 @@
 - 👋 Hi, I’m @ddd079
-- 🌱 I’m currently learning Pyhon, Move
